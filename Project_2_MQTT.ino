@@ -1,7 +1,6 @@
 /* PROJECT 2 : HOME AUTOMATION  ~ PRATYUSH
  IN THIS PROJECT, Based on the data from DHT sensor the FAN starts rotating to cool down the house
  DHT data is also displayed on 16*2 LCD display
- TEMPERATURE AND HIMIDITY DATA IS DISPLAYED ON MQTT CLOUD */
 
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
